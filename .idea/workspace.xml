@@ -1,0 +1,492 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a376cfd1-a4e7-49d5-9e65-c0b2581324c2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/public/images/logo-inverse.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Charts/ChartJs/Examples/Circular/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Charts/ChartJs/Examples/LinesBars/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Charts/ChartJs/Examples/bar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Charts/ChartJs/Examples/bubble.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Charts/ChartJs/Examples/crazyLine.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Charts/ChartJs/Examples/doughnut.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Charts/ChartJs/Examples/dynamicDoughnut.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Charts/ChartJs/Examples/horizontalBar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Charts/ChartJs/Examples/line.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Charts/ChartJs/Examples/line2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Charts/ChartJs/Examples/mix.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Charts/ChartJs/Examples/pie.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Charts/ChartJs/Examples/polar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Charts/ChartJs/Examples/radar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Charts/ChartJs/Examples/scatter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Charts/ChartJs/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Charts/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Components/Carousel/Examples/Carousel/Carousel.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Components/Carousel/Examples/Carousel/CustomTag.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Components/Carousel/Examples/Carousel/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Components/Carousel/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Components/Maps/Examples/GoogleMaps/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Components/Maps/Examples/VectorMaps/Animated.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Components/Maps/Examples/VectorMaps/Basic.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Components/Maps/Examples/VectorMaps/Datasets.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Components/Maps/Examples/VectorMaps/Markers.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Components/Maps/Examples/VectorMaps/Static/world-110m.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Components/Maps/Examples/VectorMaps/Static/world-50m-with-population.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Components/Maps/Examples/VectorMaps/Static/world-50m.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Components/Maps/Examples/VectorMaps/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Components/Maps/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Components/Modal/Examples/Modal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Components/Modal/Examples/ModalBackdrop.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Components/Modal/Examples/ModalCustomCloseButton.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Components/Modal/Examples/ModalCustomCloseIcon.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Components/Modal/Examples/ModalCustomTimeout.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Components/Modal/Examples/ModalExternal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Components/Modal/Examples/ModalFadeless.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Components/Modal/Examples/ModalNested.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Components/Modal/Examples/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Components/Modal/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Components/Notifications/Examples/BasicAlerts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Components/Notifications/Examples/ToastifyAlerts.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Components/Notifications/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Components/Pagination/Examples/Basic.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Components/Pagination/Examples/Dynamic.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Components/Pagination/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Components/ProgressBar/Examples/Basic/Progress.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Components/ProgressBar/Examples/Basic/ProgressAnimated.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Components/ProgressBar/Examples/Basic/ProgressColor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Components/ProgressBar/Examples/Basic/ProgressLabels.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Components/ProgressBar/Examples/Basic/ProgressMax.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Components/ProgressBar/Examples/Basic/ProgressMulti.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Components/ProgressBar/Examples/Basic/ProgressRounded.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Components/ProgressBar/Examples/Basic/ProgressSizing.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Components/ProgressBar/Examples/Basic/ProgressStriped.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Components/ProgressBar/Examples/Basic/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Components/ProgressBar/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Components/Tabs/Examples/Basic/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Components/Tabs/Examples/CardTabs/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Components/Tabs/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Components/TooltipsPopovers/Examples/Popovers/Basic.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Components/TooltipsPopovers/Examples/Popovers/Colors.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Components/TooltipsPopovers/Examples/Popovers/Custom.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Components/TooltipsPopovers/Examples/Popovers/Gradients.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Components/TooltipsPopovers/Examples/Popovers/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Components/TooltipsPopovers/Examples/Tooltips/TooltipDark.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Components/TooltipsPopovers/Examples/Tooltips/TooltipLight.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Components/TooltipsPopovers/Examples/Tooltips/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Components/TooltipsPopovers/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Components/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Dashboards/Basic/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Dashboards/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Elements/BadgesLabels/Examples/badges.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Elements/BadgesLabels/Examples/labels.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Elements/BadgesLabels/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Elements/Button/Standard/Examples/Solid.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Elements/Button/Standard/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Elements/Cards/Examples/Basic.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Elements/Cards/Examples/Colors.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Elements/Cards/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Elements/Dropdowns/Examples/DropdownStyles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Elements/Dropdowns/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Elements/Icons/Examples/FontAwesome.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Elements/Icons/Examples/LinearIcons.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Elements/Icons/Examples/Pe7Icons.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Elements/Icons/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Elements/ListGroup/Examples/Basic/ListGroup.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Elements/ListGroup/Examples/Basic/ListGroupAnchorsAndButtons.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Elements/ListGroup/Examples/Basic/ListGroupBadge.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Elements/ListGroup/Examples/Basic/ListGroupContextualClasses.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Elements/ListGroup/Examples/Basic/ListGroupCustomContent.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Elements/ListGroup/Examples/Basic/ListGroupDisabledItems.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Elements/ListGroup/Examples/Basic/ListGroupFlush.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Elements/ListGroup/Examples/Basic/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Elements/ListGroup/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Elements/Navs/Examples/NavHorizontal.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Elements/Navs/Examples/NavVertical.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Elements/Navs/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Elements/Utilities/Examples/Animations/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Elements/Utilities/Examples/ColorStates/ColorGradients.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Elements/Utilities/Examples/ColorStates/ColorSolids.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Elements/Utilities/Examples/ColorStates/TextColor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Elements/Utilities/Examples/ColorStates/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Elements/Utilities/Examples/Helpers/Breadcrumb.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Elements/Utilities/Examples/Helpers/Clearfix.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Elements/Utilities/Examples/Helpers/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Elements/Utilities/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Elements/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Forms/Elements/Controls/Examples/CustomControls.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Forms/Elements/Controls/Examples/FormBasic.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Forms/Elements/Controls/Examples/InputGroup/InputGridSizing.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Forms/Elements/Controls/Examples/InputGroup/InputGroupAddon.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Forms/Elements/Controls/Examples/InputGroup/InputGroupButton.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Forms/Elements/Controls/Examples/InputGroup/InputGroupButtonDropdown.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Forms/Elements/Controls/Examples/InputGroup/InputGroupButtonShorthand.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Forms/Elements/Controls/Examples/InputGroup/InputGroupOverview.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Forms/Elements/Controls/Examples/InputGroup/InputGroupSizing.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Forms/Elements/Controls/Examples/InputGroup/InputGroups.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Forms/Elements/Controls/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Forms/Elements/Layouts/Examples/FormGrid.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Forms/Elements/Layouts/Examples/FormGridFormRow.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Forms/Elements/Layouts/Examples/FormInline.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Forms/Elements/Layouts/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Forms/Elements/Validation/Examples/Feedback.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Forms/Elements/Validation/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Forms/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Main/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Tables/RegularTables/Examples/Table.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Tables/RegularTables/Examples/TableBordered.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Tables/RegularTables/Examples/TableBorderless.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Tables/RegularTables/Examples/TableDark.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Tables/RegularTables/Examples/TableHover.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Tables/RegularTables/Examples/TableResponsive.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Tables/RegularTables/Examples/TableSizing.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Tables/RegularTables/Examples/TableStriped.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Tables/RegularTables/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Tables/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Widgets/ChartBoxes/Examples/Basic.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Widgets/ChartBoxes/Examples/Colors.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Widgets/ChartBoxes/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/DemoPages/Widgets/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Layout/AppFooter/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Layout/AppHeader/Components/SearchBox.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Layout/AppHeader/Components/UserBox.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Layout/AppHeader/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Layout/AppLogo/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Layout/AppMain/PageTitle.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Layout/AppMain/PageTitleExamples/Variation2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Layout/AppMain/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Layout/AppMobileMenu/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Layout/AppNav/NavItems.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Layout/AppNav/VerticalNavWrapper.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Layout/AppSidebar/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/base.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/base.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/components/icons/linearicons/Linearicons-Free.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/components/icons/linearicons/Linearicons-Free.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/components/icons/linearicons/Linearicons-Free.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/components/icons/linearicons/Linearicons-Free.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/components/icons/linearicons/Linearicons-Free.woff2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/components/icons/pe7-icon/fonts/Pe-icon-7-stroke.eot" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/components/icons/pe7-icon/fonts/Pe-icon-7-stroke.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/components/icons/pe7-icon/fonts/Pe-icon-7-stroke.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/components/icons/pe7-icon/fonts/Pe-icon-7-stroke.woff" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/demo-ui/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/utils/images/avatars/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/utils/images/avatars/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/utils/images/avatars/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/utils/images/avatars/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/utils/images/avatars/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/utils/images/avatars/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/utils/images/avatars/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/utils/images/avatars/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/utils/images/avatars/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/utils/images/avatars/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/utils/images/dropdown-header/abstract1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/utils/images/dropdown-header/abstract10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/utils/images/dropdown-header/abstract2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/utils/images/dropdown-header/abstract3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/utils/images/dropdown-header/abstract4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/utils/images/dropdown-header/abstract5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/utils/images/dropdown-header/abstract6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/utils/images/dropdown-header/abstract7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/utils/images/dropdown-header/abstract8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/utils/images/dropdown-header/abstract9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/utils/images/dropdown-header/city1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/utils/images/dropdown-header/city2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/utils/images/dropdown-header/city3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/utils/images/dropdown-header/city4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/utils/images/dropdown-header/city5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/utils/images/logo-inverse.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/utils/images/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/utils/images/originals/abstract.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/utils/images/originals/abstract2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/utils/images/originals/abstract3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/utils/images/originals/abstract4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/utils/images/originals/abstract5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/utils/images/originals/abstract6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/utils/images/originals/buildings.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/utils/images/originals/city.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/utils/images/originals/citydark.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/utils/images/originals/citynights.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/utils/images/originals/colors.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/utils/images/originals/fence-small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/utils/images/originals/fence.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/utils/images/originals/interconnected.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/utils/images/originals/nightcolors.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/utils/images/originals/water.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/utils/images/sidebar/abstract1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/utils/images/sidebar/abstract10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/utils/images/sidebar/abstract2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/utils/images/sidebar/abstract3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/utils/images/sidebar/abstract4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/utils/images/sidebar/abstract5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/utils/images/sidebar/abstract6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/utils/images/sidebar/abstract7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/utils/images/sidebar/abstract8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/utils/images/sidebar/abstract9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/utils/images/sidebar/city1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/utils/images/sidebar/city2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/utils/images/sidebar/city3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/utils/images/sidebar/city4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/utils/images/sidebar/city5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/config/configureStore.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reducers/ThemeOptions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/reducers/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/registerServiceWorker.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Layout/AppHeader/Components/UserBox.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="276">
+              <caret line="46" column="64" selection-start-line="46" selection-start-column="64" selection-end-line="46" selection-end-column="64" />
+              <folding>
+                <element signature="e#0#38#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>logo</find>
+      <find>logo.p</find>
+      <find>react-ch</find>
+      <find>react-dom</find>
+      <find>eslint</find>
+      <find>webpack</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/index.js" />
+        <option value="$PROJECT_DIR$/src/assets/base.css" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/src/Layout/AppHeader/Components/UserBox.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1" />
+    <option name="y" value="23" />
+    <option name="width" value="1664" />
+    <option name="height" value="1027" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="track-behaviour-ga" type="b2602c69:ProjectViewProjectNode" />
+              <item name="track-behaviour-ga" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="track-behaviour-ga" type="b2602c69:ProjectViewProjectNode" />
+              <item name="track-behaviour-ga" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="track-behaviour-ga" type="b2602c69:ProjectViewProjectNode" />
+              <item name="track-behaviour-ga" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Layout" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="track-behaviour-ga" type="b2602c69:ProjectViewProjectNode" />
+              <item name="track-behaviour-ga" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Layout" type="462c0819:PsiDirectoryNode" />
+              <item name="AppHeader" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="track-behaviour-ga" type="b2602c69:ProjectViewProjectNode" />
+              <item name="track-behaviour-ga" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Layout" type="462c0819:PsiDirectoryNode" />
+              <item name="AppHeader" type="462c0819:PsiDirectoryNode" />
+              <item name="Components" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="$PROJECT_DIR$/node_modules/eslint" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/public" />
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a376cfd1-a4e7-49d5-9e65-c0b2581324c2" name="Default Changelist" comment="" />
+      <created>1569253869263</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1569253869263</updated>
+      <workItem from="1569253871382" duration="1233000" />
+      <workItem from="1569255854698" duration="3309000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="4542000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1680" height="1027" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17781796" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="npm" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32085562" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/assets/base.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="8043" column="29" selection-start-line="8043" selection-start-column="29" selection-end-line="8043" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="81" column="22" selection-start-line="81" selection-start-column="22" selection-end-line="81" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DemoPages/Elements/Icons/Examples/FontAwesome.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="186">
+            <caret line="20" column="3" selection-start-line="20" selection-start-column="3" selection-end-line="20" selection-end-column="3" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Layout/AppHeader/Components/UserBox.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="46" column="64" selection-start-line="46" selection-start-column="64" selection-end-line="46" selection-end-column="64" />
+          <folding>
+            <element signature="e#0#38#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
