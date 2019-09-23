@@ -1,6 +1,7 @@
 {
   "name": "track-behaviour-ga",
   "version": "0.1.0",
+  "homepage": "https://viridianajazel.github.io/track-behavior-ga/",
   "private": true,
   "dependencies": {
     "react": "^16.7.0",
